@@ -1,0 +1,169 @@
+{
+	"id": "f19f79be-7270-4851-9485-166458b63547",
+	"name": "Loans v3.0 - QA",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://qa-paas.bbvacompass.com",
+			"enabled": true
+		},
+		{
+			"key": "basic-token-azlo",
+			"value": "YXBwLnBhYXMuYXpsby5kZXY6YWttNWtKODBKQCN1clQ1RHUzUDMmOFRwI0MxY3clVFg0aDBCRWRTSmJDKmo3RmVIRiZVbGV2cSYxOTBhTkFsOA==",
+			"enabled": true
+		},
+		{
+			"key": "basic-token-simple",
+			"value": "YXBwLnBhYXMuc2ltcGxlLnFhOmtTQVdRU2ZVTXJhdkVQYTJBUG01VGdMZnM5Nmh2JXNqKmxvWDZsZTB1QCMjcHplTmhqSDNVMmIybyQqZ01zJkM=",
+			"enabled": true
+		},
+		{
+			"key": "basic-token-denizen",
+			"value": "YXBwLnBhYXMuZGVuaXplbi5kZXY6M25QUHpmSzJZVjZGRTVIa3MmNE1Bb2g4JUByMFBJdlFGSVBtKnAzdjk4ZHB5THE1SmE4bFMqOThTTHh3U2JrTw==",
+			"enabled": true
+		},
+		{
+			"key": "app-id-simple",
+			"value": "app.paas.simple.dev",
+			"enabled": true
+		},
+		{
+			"key": "app-id-azlo",
+			"value": "app.paas.azlo.dev",
+			"enabled": true
+		},
+		{
+			"key": "app-id-denizen",
+			"value": "app.paas.denizen.dev",
+			"enabled": true
+		},
+		{
+			"key": "response_time_limit",
+			"value": "5000",
+			"enabled": true
+		},
+		{
+			"key": "environment",
+			"value": "dev",
+			"enabled": true
+		},
+		{
+			"key": "customer-uuid",
+			"value": "CO-5f0f7baf-e798-44ae-b434-3910c8d74314",
+			"enabled": true
+		},
+		{
+			"key": "loanId",
+			"value": "LO-8fce2580-f33d-47be-91ee-77f3ccfd4547",
+			"enabled": true
+		},
+		{
+			"key": "docId",
+			"value": "112180970",
+			"enabled": true
+		},
+		{
+			"key": "loan-id",
+			"value": "LO-a34f1d57-9ecf-4ef5-90ea-c0c347175100",
+			"enabled": true
+		},
+		{
+			"key": "related-account-id",
+			"value": "LRA-8e01c388-8de5-43cb-85f7-5ce8c77cfb34",
+			"enabled": true
+		},
+		{
+			"key": "customer-sufix-uuid",
+			"value": "2696317",
+			"enabled": true
+		},
+		{
+			"key": "customer-ssn",
+			"value": "257696355",
+			"enabled": true
+		},
+		{
+			"key": "customer-phone",
+			"value": "9571413542",
+			"enabled": true
+		},
+		{
+			"key": "customer-lastname",
+			"value": "dptjxtn",
+			"enabled": true
+		},
+		{
+			"key": "credit-tailor-id",
+			"value": "CT-0a64d167-fe43-4ba8-b3f0-42cd3f45bc0d",
+			"enabled": true
+		},
+		{
+			"key": "signed-doc-id",
+			"value": "112180248",
+			"enabled": true
+		},
+		{
+			"key": "signed-loan-id",
+			"value": "LO-a42b92a5-fe98-4860-8614-a9cf21a9ba02",
+			"enabled": true
+		},
+		{
+			"key": "paymentId",
+			"value": "436089043011",
+			"enabled": true
+		},
+		{
+			"key": "paying-account",
+			"value": "AC-13f07365-7343-4c7f-b2b5-bd39458fe737",
+			"enabled": true
+		},
+		{
+			"key": "receiving-account",
+			"value": "AC-13f07365-7343-4c7f-b2b5-bd39458fe737",
+			"enabled": true
+		},
+		{
+			"key": "related-contract-id",
+			"value": "RC-8b12fbe8-e38a-42c7-a7f8-1ac17f0e55da",
+			"enabled": true
+		},
+		{
+			"key": "booking-id",
+			"value": "LB-e89cceac-e977-46a3-874b-f264ab3f4d5b",
+			"enabled": true
+		},
+		{
+			"key": "mla_customer_id",
+			"value": "CO-25c6810c-b91c-49e6-900e-ec4302de4574",
+			"enabled": true
+		},
+		{
+			"key": "internalId",
+			"value": "13609942",
+			"enabled": true
+		},
+		{
+			"key": "token_type",
+			"value": "jwt",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "eyJ6aXAiOiJERUYiLCJlbmMiOiJBMTI4R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.E9Rs-HKrPEU1yg0nHayONNtQ_9lJJBBULWpIiWNHeLLA1JMp28YBtUc4nMh-KWXbtZkj07MCK_FXcK20_D7PM98Z-YhpQqIZSQCCwV2Bmc9oeHv1yRgs41mGVip5GfctBa1DlhSMJgesnBYPkWR6r8GCgsKUcPqLBdxMNrxS2yFB50XHStiiHxoki54fkLsY5PZWuKYkjKFNAkff7APjBWkJS5mgj1Xq_xooUgRjxhUJHxjEqawf_EVzoIHCiqaGVwMi6DRVYNMJdzONJBOP4G1XcFAw4EvB1LLpmCtIDgUGEkLogsxiezKKt3pQN260mueOI7KpcLE-M25g_Qfe9w.XxsiGqgp60M02zFg.WvAiERxH2JVCBFh0Bx40SgzFmCqCeRN-u8kbrjq0Xpg1bTbA4_Jw69qPpOjRE-NblXJzJQdPIOaXrDSXBnthkivIE8dX3oOKi2ZuH7laAft9fX0njPMCXlYQK89X3o1MEH6YgY4U0WsncgQaPQ_Da7uX7O0ru1lWB-YikA14jxK2YfddQlzqotTi4QCu0y6_gJ56gPNWK08K7QcgqCVfNGM2xCknWB4_ic_zIgH16GiPOrXW6ZD8Cl9j9q0-WaHph8TRu3jx3GCsn1XZL-tu3OyVh3wQ0wCXb_daK8QT-lfNw5Nn6xCoOvkEXwALqzv_jIhRInD-IgO6L5CV3tOhPYhDSt7eqtz4fKunnA2LVK2Ujgk.8hJMVG52fdio4E9FNcKQNg",
+			"enabled": true
+		},
+		{
+			"key": "callcount",
+			"value": 0,
+			"enabled": true
+		},
+		{
+			"key": "last_loan_reference_id_created",
+			"value": "CO-5f0f7baf-e798-44ae-b434-3910c8d74314",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-08-14T20:10:52.993Z",
+	"_postman_exported_using": "Postman/6.7.4"
+}

@@ -1,0 +1,5 @@
+node_modules/
+logs/
+*.yaml
+collection.json
+environment.json
